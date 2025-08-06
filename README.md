@@ -36,4 +36,4 @@ Além disso, busquei criar uma experiência de usuário que fosse simples, mas a
 
 ---
 
-🔗 **Acesse o projeto online aqui:** [chat-pessoal-u9n2.onrender.com](https://chat-pessoal-u9n2.onrender.com/)
+🔗 **Acesse o projeto online aqui:** [Clique aqui para acessar](https://chat-pessoal-u9n2.onrender.com/)
