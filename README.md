@@ -1,8 +1,11 @@
 # Chat Pessoal
 
-![image](https://github.com/user-attachments/assets/cc0bfd63-7be8-40ec-a802-85a15bfc1c6e)
-![image](https://github.com/user-attachments/assets/3422f7a0-61e3-4d69-9160-76268492c798)
-![image](https://github.com/user-attachments/assets/784ef7b5-a418-43ea-98ce-93df344b8fcb)
+<img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/a7247377-27cf-49e0-a16b-6f6ee30889f5" />
+<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/67a087c7-0d05-4a71-95dc-5616a031a6bb" />
+<img width="1920" height="867" alt="image" src="https://github.com/user-attachments/assets/977bc86c-7475-447c-a4b9-9a72d292a576" />
+
+
+
 
 # ✨ Sobre o Projeto
 
